@@ -1,37 +1,8 @@
 [
   {
-    "titulo": "Cristo Redentor - O Cris",
-    "descricao": "Guardião da Cidade. E o cara mais gente boa que você já conheceu.",
-    "coordenadas": [-43.2105, -22.9519],
-    "imagens": ["assets/imagens/Cristor.png"]
-  },
-  {
-    "titulo": "Vovó Jurema, a Vendedora Ambulante",
-    "descricao": "Aparece em bairros diferentes a cada sessão, vendendo bugigangas que talvez não devessem existir neste plano.",
-    "imagens": []
-  },
-  {
-    "titulo": "Tio Zang",
-    "descricao": "Encontra qualquer artefato se você der tempo suficiente a ele.",
-    "coordenadas": [-43.2642, -22.945],
-    "imagens": ["assets/imagens/Tio Zang.png"]
-  },
-  {
     "titulo": "Léo, Grã-Cruz da Ordem do Mérito.",
     "descricao": "Poucas coisas escapam à sua memória, e nenhuma ao seu arquivo.",
     "coordenadas": [-43.182194, -22.905472],
     "imagens": ["assets/imagens/Léo.png"]
-  },
-  {
-    "titulo": "Mihai",
-    "descricao": "Há conforto em rotinas que sobreviveram a impérios. ",
-    "coordenadas": [-43.2655, -22.9241],
-    "imagens": ["assets/imagens/Mihai Moldovan.png"]
-  },
-  {
-    "titulo": "Dorian",
-    "descricao": "Sua casa sempre cheira a pão fresco, terra molhada e óleo de máquina. ",
-    "coordenadas": [-43.26532, -22.92404],
-    "imagens": ["assets/imagens/Dorian Moldovan.png"]
   }
 ]
