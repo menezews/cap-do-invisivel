@@ -1,11 +1,5 @@
 [
   {
-    "titulo": "Confeitaria Colombo",
-    "descricao": "As comidas mais saborosas, e os encontros mais necessários. Um lugar de muitas magias.",
-    "coordenadas": [-43.17875, -22.90525],
-    "imagens": ["assets/imagens/Colombo.png"]
-  },
-  {
     "titulo": "Gabinete Real Português de Leitura",
     "descricao": "'O arquivo da cidade. Protegido e zelado pela Grã-Mestre Léo.",
     "coordenadas": [-43.182194, -22.905472],
